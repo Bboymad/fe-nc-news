@@ -1,0 +1,6 @@
+user should be able to:
+- see a list of all articles // getTopics
+- go to a new page to read an individual article // getArticleById
+- see the comments linked with an individual article alongside it // getArticleComments
+- vote on the article that they are reading
+- add a new comment to the article that they are reading
